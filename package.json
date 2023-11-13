@@ -1,0 +1,12 @@
+{
+  "name": "mulapp",
+  "version": "1.0.0",
+  "description": "A simple multiplication application",
+  "main": "MulService.js",  
+  "scripts": {
+    "start": "node MulService.js" 
+  },
+  "dependencies": {
+    "http": "^0.0.1-security"  
+  }
+}
